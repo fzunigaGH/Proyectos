@@ -1,2 +1,2 @@
 # Proyectos
-Proyectos realizados
+En este repositorio se encuentran algunos proyectos realizados
